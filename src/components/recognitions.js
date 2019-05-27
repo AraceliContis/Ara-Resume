@@ -17,8 +17,8 @@ class Recognitions extends React.Component {
             <i class="fas fa-award fa-3x"></i>
       </div>
       <div class="col-sm-9">Business Ethics Certificate <br/>EL ECONOMISTA<br /><br />
-      AdWords certificate  <br/>Google<br /><br />
-      Consultant Achievement Award<br/>CinépolisGalerías</div>
+      AdWords certificate  <br/>GOOGLE<br /><br />
+      Consultant Achievement Award<br/>CINEPOLIS Galerias</div>
       </div>
       </div>
       </div>

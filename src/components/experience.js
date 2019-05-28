@@ -15,8 +15,8 @@ class Experience extends React.Component {
         <div class="card-header text-center"> 
           <h3 class="card-title text-uppercase">PROJECT EXPERIENCE</h3>
           </div><br />  
-         
-        <div class="card  mb-3">
+          <div class="card-body">
+        <div class="card  mb-3 card border-info">
           <div class="card-header text-center bg-info"> 
           <h8 class="card-title text-uppercase">{this.props.exp1}</h8>
           </div>
@@ -31,10 +31,11 @@ class Experience extends React.Component {
         </div>
         </div>
         </div>
+        </div>
 
         <br />  
-         
-         <div class="card  mb-3">
+        <div class="card-body">
+         <div class="card  mb-3 card border-info">
            <div class="card-header text-center bg-info"> 
            <h8 class="card-title text-uppercase">{this.props.exp2}</h8>
            </div>
@@ -49,11 +50,13 @@ class Experience extends React.Component {
       
          </div>
          </div>
+         </div>
 
         </div>
         <br />  
          
-         <div class="card  mb-3">
+        <div class="card-body">
+         <div class="card  mb-3 card border-info">
            <div class="card-header text-center bg-info"> 
            <h8 class="card-title text-uppercase">{this.props.exp3}</h8>
            </div>
@@ -68,10 +71,12 @@ class Experience extends React.Component {
          </div>
          </div>
          </div>
+         </div>
  
          <br />  
          
-         <div class="card  mb-3">
+         <div class="card-body">
+         <div class="card  mb-3 card border-info">
            <div class="card-header text-center bg-info"> 
            <h8 class="card-title text-uppercase">{this.props.exp4}</h8>
            </div>
@@ -83,6 +88,7 @@ class Experience extends React.Component {
            })}
            
          </ul>
+         </div>
          </div>
          </div>
          </div>

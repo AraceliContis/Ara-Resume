@@ -12,15 +12,15 @@ self.__precacheManifest = [
     "url": "/Ara-Resume/static/js/runtime~main.bdc3c081.js"
   },
   {
-    "revision": "02536a4aa542ba6558fd",
-    "url": "/Ara-Resume/static/js/main.ff7028f1.chunk.js"
+    "revision": "fa330623f62b992152ca",
+    "url": "/Ara-Resume/static/js/main.912f258c.chunk.js"
   },
   {
     "revision": "31b36c9095be6174ccba",
     "url": "/Ara-Resume/static/js/2.af71e73e.chunk.js"
   },
   {
-    "revision": "02536a4aa542ba6558fd",
+    "revision": "fa330623f62b992152ca",
     "url": "/Ara-Resume/static/css/main.a0005089.chunk.css"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/Ara-Resume/static/css/2.0c1f3bd6.chunk.css"
   },
   {
-    "revision": "3524a11295b91430b2f513e0ff701d1d",
+    "revision": "c47a0613389e0cd3ed7592b6f986a5d7",
     "url": "/Ara-Resume/index.html"
   }
 ];
